@@ -1,0 +1,1 @@
+This is a Chrome extension that helps allow you to eat more Yale in your diet.
